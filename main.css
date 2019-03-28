@@ -1,0 +1,25 @@
+.header-text {
+    text-align: center;
+    width: 100%;
+}
+
+.nav {
+    float: right;
+}
+
+.form-margin {
+    margin: 5px;
+}
+
+footer {
+    position: fixed;
+    bottom: 0;
+    height: 50px;
+}
+
+html,
+body {
+    height: 100%;
+    position: relative;
+    overflow: hidden;
+}
